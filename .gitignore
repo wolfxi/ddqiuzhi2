@@ -1,0 +1,4 @@
+#配置文件.缓存文件。不需要提交。
+php_errors.log
+/Runtime/*
+/Data/*
